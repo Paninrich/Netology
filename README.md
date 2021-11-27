@@ -7,14 +7,12 @@
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
 
-'''.selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
+'''.selector 
+  
 }
 
-<p style type="text/css"> body,td,th {
-    font-size: 24px;
-    color: rgba(221,15,18,1);
+<p style type="text/css">  { font-family: "Awesome", Arial, sans-serif;
+  color: red;
 }   
   
 Наши преимущества:
